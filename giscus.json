@@ -1,0 +1,4 @@
+{
+  "origins": ["https://pdli.site"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
